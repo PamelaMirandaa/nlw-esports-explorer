@@ -5,7 +5,7 @@
 
 Projeto construído no evento Next Level Week da RocketSeat. 
 
-[Clique aqui para acessar:](https://PamelaMirandaa.github.io/nlw-esports-explorer) 
+[Clique aqui para acessar](https://PamelaMirandaa.github.io/nlw-esports-explorer) 
 
 ## 🛠️  Tecnologias
 - HTML
